@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "imagen": "./img/blusa.png",
+        "nombre": "Blusa",
+        "precio": "65.000",
+        "precioOff": "60.000",
+        "categoria": "Blusas",
+        "disponible": "true"
+    },  
+    {
+        "id": "2",
+        "imagen": "./img/bufanda.png",
+        "nombre": "Bufanda",
+        "precio": "35.000",
+        "precioOff": "30.000",
+        "categoria": "Bufandas",
+        "disponible": "false"
+    },
+    {
+        "id": "3",
+        "imagen": "./img/Gafas.png",
+        "nombre": "Gafas",
+        "precio": "150.000",
+        "precioOff": "100.000",
+        "categoria": "Gafas",
+        "disponible": "true"
+    },
+    {
+        "id": "4",
+        "imagen": "./img/jean.png",
+        "nombre": "Jean",
+        "precio": "145.000",
+        "precioOff": "140.000",
+        "categoria": "Jeans",
+        "disponible": "true"
+    },
+    {
+        "id": "5",
+        "imagen": "./img/sombrero.png",
+        "nombre": "Sombrero",
+        "precio": "45.000",
+        "precioOff": "40.000",
+        "categoria": "Sombreros",
+        "disponible": "true"
+    },
+    {
+        "id": "6",
+        "imagen": "./img/tennis.png",
+        "nombre": "Tennis",
+        "precio": "250.000",
+        "precioOff": "200.000",
+        "categoria": "tennis",
+        "disponible": "true"
+    },
+    {
+        "id": "7",
+        "imagen": "./img/Bolso.png",
+        "nombre": "Bolso",
+        "precio": "75.000",
+        "precioOff": "70.000",
+        "categoria": "Bolsos",
+        "disponible": "true"
+    }, 
+    {
+        "id": "8",
+        "imagen": "./img/vestido.png",
+        "nombre": "Vestido",
+        "precio": "85.000",
+        "precioOff": "80.000",
+        "categoria": "Vestidos",
+        "disponible": "true"
+    },  
+    {
+        "id": "9",
+        "imagen": "./img/aretes.png",
+        "nombre": "Aretes",
+        "precio": "25.000",
+        "precioOff": "20.000",
+        "categoria": "Aretes",
+        "disponible": "true"
+    },  
+    {
+        "id": "10",
+        "imagen": "./img/Chaqueta.png",
+        "nombre": "Chaqueta",
+        "precio": "225.000",
+        "precioOff": "220.000",
+        "categoria": "ChaquetaS",
+        "disponible": "true"
+    }
+]
