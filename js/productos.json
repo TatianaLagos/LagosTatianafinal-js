@@ -19,7 +19,7 @@
     },
     {
         "id": "3",
-        "imagen": "./img/gafas.png",
+        "imagen": "./img/lentes.png",
         "nombre": "Gafas",
         "precio": "150.000",
         "precioOff": "100.000",
